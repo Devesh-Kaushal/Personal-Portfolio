@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Root path for devesh-kaushal.github.io
+  base: '/Personal-Portfolio/', // Update with your GitHub repo name if different
 });
